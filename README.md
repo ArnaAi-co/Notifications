@@ -32,4 +32,3 @@ Copy the following files and folders into your Laravel project:
 php artisan migrate
 
 ```bash
-composer require davinci-ai/davinci-sdk
