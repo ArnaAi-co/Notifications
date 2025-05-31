@@ -29,6 +29,5 @@ Copy the following files and folders into your Laravel project:
 
 ### 2. Run migration
 
-php artisan migrate
-
 ```bash
+php artisan migrate
