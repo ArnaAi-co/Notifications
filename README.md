@@ -34,5 +34,5 @@ php artisan migrate
 ```
 - 👤 Author
 - Amir Shahamiri
-- 🧑‍💻 GitHub: amirshahamiri
+- 🧑‍💻 GitHub: github.com/amirshahamiri
 - 💼 LinkedIn: linkedin.com/in/amirshahamiri
