@@ -31,9 +31,7 @@ Copy the following files and folders into your Laravel project:
 
 ```bash
 php artisan migrate
-
-
-
+```
 👤 Author
 Amir Shahamiri
 🧑‍💻 GitHub: amirshahamiri
